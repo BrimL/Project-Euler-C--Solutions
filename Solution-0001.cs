@@ -1,6 +1,6 @@
 using System;
 
-namespace Luke.Euler.Solutions.001
+namespace Luke.Euler.Solutions.Number0001
 {
     public class Program
     {
